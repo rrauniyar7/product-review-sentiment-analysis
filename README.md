@@ -1,7 +1,9 @@
-Copy and paste this into your `README.md` file:
-
 ````md
 # Product Review Sentiment Analysis
+
+# Product Review Sentiment Analysis
+
+[Open Live Streamlit App](https://sentiment-reviewer.streamlit.app/)
 
 This project is a web-based product review sentiment analysis application built using **Streamlit** and a pretrained **BERT-based sentiment analysis model** from Hugging Face.
 
